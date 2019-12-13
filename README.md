@@ -26,3 +26,7 @@ func getCurrentTime() -> String {
     return dateString
 }
 ```
+
+
+ ### Author 
+ #### [Sunil Targe](https://suniltarge.com) • Creator of [ॐ • Om chanting with Ninja](https://apps.apple.com/us/app/%E0%A5%90-om-chanting-with-ninja/id1478518232) App
