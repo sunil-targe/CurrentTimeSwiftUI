@@ -28,5 +28,10 @@ func getCurrentTime() -> String {
 ```
 
 
- ### Author 
- #### [Sunil Targe](https://suniltarge.com) • Creator of [ॐ • Om chanting with Ninja](https://apps.apple.com/us/app/%E0%A5%90-om-chanting-with-ninja/id1478518232) App
+ ### Author
+ #
+[Sunil Targe](https://suniltarge.com) • Creator of [ॐ • Om chanting with Ninja](https://apps.apple.com/us/app/%E0%A5%90-om-chanting-with-ninja/id1478518232) App
+
+### License 
+#
+ CurrentTimeSwiftUI is available under the MIT license. See the LICENSE file for more info.
